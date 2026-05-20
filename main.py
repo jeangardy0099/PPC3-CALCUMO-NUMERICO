@@ -1,15 +1,6 @@
 import math
 import matplotlib.pyplot as plt
 
-# ============================================================
-# UNIVERSIDADE DE BRASÍLIA - UnB
-# CÁLCULO NUMÉRICO APLICADO
-# PROGRAMA PARA CASA #3
-#
-# Método das Diferenças Finitas 1D
-# Esquema Implícito
-# Algoritmo de Thomas (TDMA)
-# ============================================================
 
 # ============================================================
 # 1. PROPRIEDADES FÍSICAS
